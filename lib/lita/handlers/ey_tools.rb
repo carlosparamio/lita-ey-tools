@@ -48,7 +48,7 @@ module Lita
       end
 
       def master_hostname_for(app, env)
-        `bundle exec ey servers -uS --environment=#{ey_env(app, env)} --api-token=#{config.api_token}`.split('\n')[0].chop
+        `bundle exec ey servers -uS --environment=#{ey_env(app, env)} --api-token=#{config.api_token}`.split("\n")[0]
       end
 
       def app_url_for(app, env)
