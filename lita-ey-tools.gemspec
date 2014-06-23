@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-ey-tools"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Carlos Paramio"]
   spec.email         = ["hola@carlosparamio.com"]
   spec.description   = %q{A Lita handler with some EY tools.}
