@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    lita-ey-info (0.0.4)
+    lita-ey-tools (0.0.1)
       engineyard
       lita (>= 3.2.0)
       lita-ey-base
@@ -102,7 +102,7 @@ PLATFORMS
 DEPENDENCIES
   bundler
   coveralls
-  lita-ey-info!
+  lita-ey-tools!
   rake
   rspec (>= 3.0.0)
   simplecov
