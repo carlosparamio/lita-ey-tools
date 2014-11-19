@@ -1,5 +1,6 @@
 # lita-ey-tools
 
+[![Gem Version](https://badge.fury.io/rb/lita-ey-tools.svg)](http://badge.fury.io/rb/lita-ey-tools)
 [![Build Status](https://travis-ci.org/carlosparamio/lita-ey-tools.png?branch=master)](https://travis-ci.org/carlosparamio/lita-ey-tools)
 [![Code Climate](https://codeclimate.com/github/carlosparamio/lita-ey-tools.png)](https://codeclimate.com/github/carlosparamio/lita-ey-tools)
 [![Coverage Status](https://coveralls.io/repos/carlosparamio/lita-ey-tools/badge.png)](https://coveralls.io/r/carlosparamio/lita-ey-tools)
